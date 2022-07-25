@@ -1,0 +1,46 @@
+.card {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.card:first-child {
+  margin-top: 10px;
+}
+
+.card:last-child {
+  margin-bottom: 10px;
+}
+
+.card_title {
+  flex: 1;
+  font-weight: bold;
+  font-size: 1rem;
+  line-height: 1.875rem;
+}
+
+.card-buttons {
+  height: 30px;
+}
+
+.button-list {
+  list-style-type: none;
+  float: right;
+}
+
+.button-list li {
+  float: left;
+  padding: 0 5px;
+  cursor: pointer;
+}
+
+.first_board0 {
+  opacity: 0.1;
+}
+
+.last_board3 {
+  opacity: 0.1;
+}
