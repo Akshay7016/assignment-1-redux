@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assignment-1-redux/static/css/main.c6e59e99.css",
+    "main.js": "/assignment-1-redux/static/js/main.b99b2352.js",
+    "index.html": "/assignment-1-redux/index.html",
+    "main.c6e59e99.css.map": "/assignment-1-redux/static/css/main.c6e59e99.css.map",
+    "main.b99b2352.js.map": "/assignment-1-redux/static/js/main.b99b2352.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6e59e99.css",
+    "static/js/main.b99b2352.js"
+  ]
+}
